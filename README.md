@@ -186,7 +186,7 @@ Secure file upload and management system with authentication and admin dashboard
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg"/>
+  <img src="https://github.com/ketkidevkar/ketkidevkar/blob/output/github-snake.svg"/>
 </p>
 
 ---
