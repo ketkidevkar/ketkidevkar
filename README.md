@@ -172,17 +172,15 @@ Secure file upload and management system with authentication and admin dashboard
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketkidevkar&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketkidevkar&theme=react-dark"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
