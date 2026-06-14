@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square"/>
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square"/>
 </p>
