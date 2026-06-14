@@ -183,11 +183,6 @@ Secure file upload and management system with authentication and admin dashboard
 </p>
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ketkidevkar/ketkidevkar/blob/output/github-snake.svg"/>
-</p>
 
 ---
 
